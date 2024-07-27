@@ -22,3 +22,4 @@ My values and experience show that I am able to work with confidential client in
 ## Portfolio Contents:
 
 [Course 3, Tools of the Trade: Linux and SQL](manage-linux-file-permissions/manage-linux-file-permissions.md)
+[Course 3, Tools of the Trade: Linux and SQL](apply-filters-to-SQL-queries/apply-filters-to-SQL-queries.md)
