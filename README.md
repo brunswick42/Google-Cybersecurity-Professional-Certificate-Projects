@@ -27,6 +27,4 @@ My values and experience show that I am able to work with confidential client in
 
 [Course 3, Tools of the Trade: Linux and SQL - Apply Filters to SQL Queries](apply-filters-to-SQL-queries/apply-filters-to-SQL-queries.md)
 
-[Course 4, Connect and Protect: Networks and Network Security - Analyze network layer communication](analyze-network-layer-communication/analyze-network-layer-communication.md)
-
 [Course 4, Connect and Protect: Networks and Network Security - Use the NIST Cybersecurity Framework to respond to a security incident](respond-to-a-security-incident/respond-to-a-security-incident.md)
