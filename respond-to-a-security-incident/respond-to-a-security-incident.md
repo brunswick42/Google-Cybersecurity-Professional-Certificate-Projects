@@ -24,5 +24,6 @@ As a cybersecurity analyst, you are tasked with using this security event to cre
 
 ## Incident Report Analysis
 [Completed Incident Report Analysis (docx)](incident-report-analysis.docx)
+
 [Completed Incident Report Analysis (pdf)](incident-report-analysis.pdf)
 
